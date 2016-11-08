@@ -50,3 +50,4 @@ A completed Jupyter notebook.
 
 - [scikit-learn linear models](http://scikit-learn.org/stable/modules/linear_model.html), including regularization
 - [http://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html](Creating dummy variables with pandas)
+# STUFF
